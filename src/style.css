@@ -1,0 +1,88 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+#app {
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+}
+
+thead {
+  background-color: gray;
+}
+
+td, th {
+  text-align: left;
+  padding: 0.2rem 0.8rem;
+}
+
+tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+td {
+  border: 1px solid rgba(255, 255, 255, 0.1)
+}
+
+button {
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #04AA6D;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: #059862;
+}
+
+.container {
+  width: 100%;
+  max-width: 1024px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  padding: 2rem 1rem;
+  margin: 0 auto;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+.fadeIn {
+  animation: fadeIn 0.25s;
+}
+
