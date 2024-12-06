@@ -3,8 +3,6 @@
 Welcome to the **Pokee Web Application** – a visually stunning and user-friendly platform for exploring the exciting world of Pokémon!  
 Experience it live here: 👉 [Pokee Web Application](https://pokee-web.vercel.app/)  
 
-![Pokee Web Application Screenshot](https://your-image-hosting-url.png)  
-
 ---
 
 ## 🚀 Features  
@@ -15,13 +13,6 @@ Experience it live here: 👉 [Pokee Web Application](https://pokee-web.vercel.a
 - 📱 **Responsive Design:** Optimized for desktop, tablet, and mobile users.  
 - 🎨 **Interactive Animations:** Engaging UI animations for a seamless user experience.  
 - 🟦 **TypeScript Support:** Fully typed codebase for better scalability and reliability.  
-
----
-
-## 📸 Screenshots  
-
-### 🖥️ Homepage  
-![Homepage](https://your-image-hosting-url.png)  
 
 ---
 
@@ -48,4 +39,11 @@ Follow these steps to set up the Pokee Web Application locally:
 1. Clone the Repository:  
    ```bash  
    git clone https://github.com/your-username/pokee-web.git  
-   cd pokee-web  
+   cd pokee-web
+
+2. Run:
+```bash
+   npm install  
+   npm run dev
+   Navigate to http://localhost:3000 to view the application locally.
+
