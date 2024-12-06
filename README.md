@@ -1,16 +1,51 @@
-# Vue 3 + TypeScript + Vite
+# 🌟 Pokee Web Application  
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to the **Pokee Web Application** – a visually stunning and user-friendly platform for exploring the exciting world of Pokémon!  
+Experience it live here: 👉 [Pokee Web Application](https://pokee-web.vercel.app/)  
 
-## Recommended IDE Setup
+![Pokee Web Application Screenshot](https://your-image-hosting-url.png)  
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+---
 
-## Type Support For `.vue` Imports in TS
+## 🚀 Features  
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
+- 🌐 **Live Search:** Quickly find and explore detailed Pokémon profiles.  
+- 🖼️ **Dynamic Cards:** Beautifully designed Pokémon cards with images and stats.  
+- 🔍 **Filter Options:** Narrow your search by type, abilities, and more.  
+- 📱 **Responsive Design:** Optimized for desktop, tablet, and mobile users.  
+- 🎨 **Interactive Animations:** Engaging UI animations for a seamless user experience.  
+- 🟦 **TypeScript Support:** Fully typed codebase for better scalability and reliability.  
 
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
+---
 
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+## 📸 Screenshots  
+
+### 🖥️ Homepage  
+![Homepage](https://your-image-hosting-url.png)  
+
+---
+
+## 💻 Tech Stack  
+
+- **Frontend:** React.js + TypeScript  
+- **Styling:** Tailwind CSS  
+- **Backend:** Node.js  
+- **State Management:** Context API  
+- **Hosting:** Vercel  
+
+---
+
+## 🌟 Live Demo  
+
+Visit the live demo here: 👉 [Pokee Web Application](https://pokee-web.vercel.app/)  
+
+---
+
+## 🛠️ Installation and Setup  
+
+Follow these steps to set up the Pokee Web Application locally:  
+
+1. Clone the Repository:  
+   ```bash  
+   git clone https://github.com/your-username/pokee-web.git  
+   cd pokee-web  
