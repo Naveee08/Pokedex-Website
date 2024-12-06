@@ -42,8 +42,10 @@ Follow these steps to set up the Pokee Web Application locally:
    cd pokee-web
 
 2. Run:
-```bash
+   ```bash
    npm install  
    npm run dev
-   Navigate to http://localhost:3000 to view the application locally.
+   
+Navigate to http://localhost:3000 to view the application locally.
+  
 
