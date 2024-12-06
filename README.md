@@ -38,7 +38,7 @@ Follow these steps to set up the Pokee Web Application locally:
 
 1. Clone the Repository:  
    ```bash  
-   git clone (https://github.com/Naveee08/Pokedex-Website.git)
+   git clone https://github.com/Naveee08/Pokedex-Website.git
    cd pokee-web
 
 2. Run:
