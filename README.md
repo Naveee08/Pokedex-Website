@@ -18,8 +18,8 @@ Experience it live here: 👉 [Pokee Web Application](https://pokee-web.vercel.a
 
 ## 💻 Tech Stack  
 
-- **Frontend:** React.js + TypeScript  
-- **Styling:** Tailwind CSS  
+- **Frontend:** Vue.js + TypeScript  
+- **Styling:** CSS  
 - **Backend:** Node.js  
 - **State Management:** Context API  
 - **Hosting:** Vercel  
